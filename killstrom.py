@@ -16,7 +16,7 @@ def banner():
     print(f"{CYAN}======================================")
     print(f"{BLUE}       KILLSTROM SIM DATABASE TOOL")
     print(f"{CYAN}======================================")
-    print(f"{WHITE}      Created for Devil Malik Sim")
+    print(f"{WHITE}      Powered By Mudassar Emperor")
     print(f"{CYAN}======================================{RESET}\n")
 
 def open_whatsapp():
